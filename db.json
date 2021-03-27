@@ -1,0 +1,123 @@
+{
+    "songs": [
+  {
+    "id": 1,
+    "name": "Genius",
+    "artist": "LSD",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Genius.mp3",
+    "length": "03:43"
+  },
+  {
+    "id": 2,
+    "name": "Audio",
+    "artist": "LSD",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Audio.mp3",
+    "length": "03:45"
+  },
+  {
+    "id": 3,
+    "name": "Genius",
+    "artist": "LSD",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Genius.mp3",
+    "length": "03:43"
+  },
+  {
+    "id": 4,
+    "name": "Beautiful People",
+    "artist": "Ed Sheeran",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Beautiful People.mp3",
+    "length": "03:47"
+  },
+  {
+    "id": 5,
+    "name": "Dear Zindagi",
+    "artist": "SonyMusicVEVO",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Dear Zindagi.mp3",
+    "length": "04:10"
+  },
+  {
+    "id": 6,
+    "name": "Hawa Banke",
+    "artist": "Darshan Rawal",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Hawa Banke.mp3",
+    "length": "03:43"
+  },
+  {
+    "id": 7,
+    "name": "I Don't Care",
+    "artist": "Ed Sheeran",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/I Don_t Care.mp3",
+    "length": "03:42"
+  },
+  {
+    "id": 8,
+    "name": "Ishq Ka Haafiz",
+    "artist": "Nilotpal Bora",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Ishq Ka Haafiz.mp3",
+    "length": "03:54"
+  },
+  {
+    "id": 9,
+    "name": "Loco Contigo",
+    "artist": "DJ Snake",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Loco Contigo.mp3",
+    "length": "03:09"
+  },
+  {
+    "id": 10,
+    "name": "No New Friends",
+    "artist": "Diplo",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/No New Friends.mp3",
+    "length": "02:58"
+  },
+  {
+    "id": 11,
+    "name": "OK Jaanu",
+    "artist": "Sony Music India",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/OK Jaanu.mp3",
+    "length": "02:54"
+  },
+  {
+    "id": 12,
+    "name": "Patakha Guddi",
+    "artist": "Nooran Sisters",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Patakha Guddi.mp3",
+    "length": "04:45"
+  },
+  {
+    "id": 13,
+    "name": "Patang",
+    "artist": "Nilotpal Bora",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Patang.mp3",
+    "length": "04:45"
+  },
+  {
+    "id": 14,
+    "name": "Phans Gayo",
+    "artist": "Swaroop Khan",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Phans Gayo.mp3",
+    "length": "02:28"
+  },
+  {
+    "id": 15,
+    "name": "South of the Border",
+    "artist": "Ed Sheeran",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/South of the Border.mp3",
+    "length": "03:24"
+  },
+  {
+    "id": 16,
+    "name": "Speechless",
+    "artist": "Naomi Scott",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Speechless.mp3",
+    "length": "03:26"
+  },
+  {
+    "id": 17,
+    "name": "Work from Home",
+    "artist": "Fifth Harmony",
+    "link": "https://musixmeme.000webhostapp.com/assets/music/Work from Home.mp3",
+    "length": "03:39"
+  }
+]
+}
